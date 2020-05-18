@@ -1,3 +1,2 @@
-# nodejs e socket-io
-###npm install 
-###npm start
+# nodejs e socket-io ( npm install && npm start )
+ 
